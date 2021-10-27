@@ -1,0 +1,11 @@
+C:\Users\anast\source\repos\WINFORM\WINFORM\bin\Debug\WINFORM.exe.config
+C:\Users\anast\source\repos\WINFORM\WINFORM\bin\Debug\WINFORM.exe
+C:\Users\anast\source\repos\WINFORM\WINFORM\bin\Debug\WINFORM.pdb
+C:\Users\anast\source\repos\WINFORM\WINFORM\obj\Debug\WINFORM.csproj.AssemblyReference.cache
+C:\Users\anast\source\repos\WINFORM\WINFORM\obj\Debug\WINFORM.Form1.resources
+C:\Users\anast\source\repos\WINFORM\WINFORM\obj\Debug\WINFORM.Form2.resources
+C:\Users\anast\source\repos\WINFORM\WINFORM\obj\Debug\WINFORM.Properties.Resources.resources
+C:\Users\anast\source\repos\WINFORM\WINFORM\obj\Debug\WINFORM.csproj.GenerateResource.cache
+C:\Users\anast\source\repos\WINFORM\WINFORM\obj\Debug\WINFORM.csproj.CoreCompileInputs.cache
+C:\Users\anast\source\repos\WINFORM\WINFORM\obj\Debug\WINFORM.exe
+C:\Users\anast\source\repos\WINFORM\WINFORM\obj\Debug\WINFORM.pdb
