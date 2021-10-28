@@ -41,6 +41,7 @@ namespace WINFORM
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.linkLabel1 = new System.Windows.Forms.LinkLabel();
             this.treeView1 = new System.Windows.Forms.TreeView();
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -114,7 +115,7 @@ namespace WINFORM
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(951, 370);
+            this.button3.Location = new System.Drawing.Point(745, 439);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(105, 35);
             this.button3.TabIndex = 8;
@@ -135,7 +136,7 @@ namespace WINFORM
             // linkLabel1
             // 
             this.linkLabel1.AutoSize = true;
-            this.linkLabel1.Location = new System.Drawing.Point(810, 309);
+            this.linkLabel1.Location = new System.Drawing.Point(743, 316);
             this.linkLabel1.Name = "linkLabel1";
             this.linkLabel1.Size = new System.Drawing.Size(88, 20);
             this.linkLabel1.TabIndex = 10;
@@ -151,11 +152,20 @@ namespace WINFORM
             this.treeView1.Size = new System.Drawing.Size(121, 477);
             this.treeView1.TabIndex = 11;
             // 
+            // comboBox1
+            // 
+            this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Location = new System.Drawing.Point(904, 284);
+            this.comboBox1.Name = "comboBox1";
+            this.comboBox1.Size = new System.Drawing.Size(172, 28);
+            this.comboBox1.TabIndex = 12;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1088, 501);
+            this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.treeView1);
             this.Controls.Add(this.linkLabel1);
             this.Controls.Add(this.dataGridView1);
@@ -191,6 +201,7 @@ namespace WINFORM
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.LinkLabel linkLabel1;
         private System.Windows.Forms.TreeView treeView1;
+        private System.Windows.Forms.ComboBox comboBox1;
     }
 }
 
