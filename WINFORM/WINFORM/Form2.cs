@@ -17,7 +17,14 @@ namespace WINFORM
         {
             InitializeComponent();
         }
+        public void AddAdress()
+        {
+            string country = this.textBox1.Text;
+            string city = this.textBox2.Text;
+            int house = Convert.ToInt32(this.textBox3.Text);
+            Adress adresnew = new Adress(city, country, house);
 
+        }
         private void Form2_Load(object sender, EventArgs e)
         {
 
